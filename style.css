@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+}
+
+#simCity {
+  background-image: url('img/simcity.jpg');
+}
+
+#explosion {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.blackie {
+  height: 300px;
+  width: 200px;
+  background-color: black;
+  position: relative;
+  top: 100px;
+
+}
+
+#unCutBlue{
+  position: absolute;
+  top: 20px;
+  left: 100px;
+
+}
+
+#CutBlue {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
